@@ -6,10 +6,6 @@
 ## Problem Statement
 This project aims to analyze Airbnb data using pandas,plotly and streamlit , perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends.
 
-## Interactive Dashboard
-Explore our findings through an interactive dashboard that brings the data to life: 
-[**Discover the Airbnb Dashboard**](https://public.powerbu.com)
-
 ## Objectives
 1. **Data Mastery**: Cleanse and prepare data to ensure precision and reliability.
 2. **Geospatial Brilliance**: Create interactive maps that reveal hidden geographical patterns and trends.
